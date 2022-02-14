@@ -10,5 +10,6 @@
     <br><code>import pandas</code>
     <br><code>import numpy</code>
     <br><code>import matplotlib.pyplot</code>
+    <br><code>Linear Regression()</code> plot and predictions
 <br>
     <br>Enjoy it! I made it beautiful for us.
